@@ -2,7 +2,7 @@
 
 This is the GitHub repo for the "**UwUpanA**" skin.
 
-**UwUpanA** is a custom and mixed skin that was first created in March 2023 for personal use.</br>
+**UwUpanA** is a custom and mixed skin that was first created in March 2023 for personal use.
 
 ## Screenshoots
 
@@ -10,7 +10,7 @@ _Work in progress_.
 
 ## Downloads
 
-1. Download the latest .osk from here to anywhere on your computer.
+1. Download the latest .osk from [here](https://github.com/KotoriPana/UwUpanA/releases/latest) to anywhere on your computer.
 2. Doubleclick the file to import the skin to osu!
 3. That's all, have fun!
 
