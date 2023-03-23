@@ -7,12 +7,12 @@ This skin can be used with all modes (STD, Taiko, CTB, Mania).
 
 ## Screenshoots
 
-_Work in progress_
+Work in progress
 
 ## Changelogs
 
-_Work in progress_
+Work in progress
 
 ## Downloads
 
-_Work in progress_
+Work in progress
