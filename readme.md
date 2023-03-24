@@ -24,7 +24,7 @@ A: 16:9 Standard Definition (SD). Currently looking for a suitable @2x version o
 
 ## Changelogs
 
-[v202303] Initial release.
+- v202303 - Initial release.
 
 ## Links
 
