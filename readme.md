@@ -41,4 +41,4 @@ You are more than welcome to inform me to take down any or all of your owned ele
 - [Suzuha_l](https://osu.ppy.sh/users/6132697)'s [personal skin](https://www.youtube.com/@Suzuha0927/featured) for osu!mania skin (bar), combo font, hit-sound, pause screen, fail screen, and ranking screen.
 - [upan](https://osu.ppy.sh/users/5214397)'s personal skin for osu!standard skin and osu!catch skin.
 - [Matt2e2](https://osu.ppy.sh/users/12144912)'s [IJN Yamashiro V2](https://osu.ppy.sh/community/forums/posts/7312239) skin for osu!taiko skin and mods icon.
-- [Netamaru](https://osu.ppy.sh/users/1830361)'s [personal skin](https://www.youtube.com/@Netamaru/featured) for default font and score font.
+- [Netamaru](https://osu.ppy.sh/users/1830361)'s [personal skin](https://www.youtube.com/@Netamaru/featured) for default font, score font, and osu!catch skin.
