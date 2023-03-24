@@ -6,7 +6,7 @@ This is the GitHub repo for the "**UwUpanA**" skin.
 
 ## Screenshoots
 
-[v202303](https://imgur.com/a/KdORC0u)
+[v202303 skin preview](https://imgur.com/a/KdORC0u)
 
 ## Downloads
 
@@ -21,9 +21,21 @@ A: Full support for all modes - osu!mania (1K - 10K), osu!catch, osu!standard, o
 
 ## Changelogs
 
-_Work in progress_.
+[v202303] Initial release.
 
 ## Links
 
 [Skin GitHub](https://github.com/KotoriPana/UwUpanA)</br>
 [Send a message on osu!](https://osu.ppy.sh/users/6866937)
+
+## Credits
+
+**Disclaimer:**</br>
+All material that I have (and will be) combining in this skin are purely for personal use only.</br>
+There are no commercial benefits or copyright claims in the use of this skin.</br>
+You are more than welcome to inform me to take down any or all of your owned elements that are used in this skin.</br>
+
+- [Suzuha_l](https://osu.ppy.sh/users/6132697)'s [personal skin](https://www.youtube.com/@Suzuha0927/featured) for osu!mania skin (bar), combo font, hit-sound, pause screen, fail screen, and ranking screen.
+- [upan](https://osu.ppy.sh/users/5214397)'s personal skin for osu!standard skin and osu!catch skin.
+- [Matt2e2](https://osu.ppy.sh/users/12144912)'s [IJN Yamashiro V2](https://osu.ppy.sh/community/forums/posts/7312239) skin for osu!taiko skin and mods icon.
+- [Netamaru](https://osu.ppy.sh/users/1830361)'s [personal skin](https://www.youtube.com/@Netamaru/featured) for default font and score font.
