@@ -19,6 +19,9 @@ This is the GitHub repo for the "**UwUpanA**" skin.
 Q: Which modes does the skin support?</br>
 A: Full support for all modes - osu!mania (1K - 10K), osu!catch, osu!standard, osu!taiko.
 
+Q: What are the dimensions of this skin?</br>
+A: 16:9 Standard Definition (SD). Currently looking for a suitable @2x version of these elements. Sorry if it looks blurry on larger resolution screens.
+
 ## Changelogs
 
 [v202303] Initial release.
@@ -33,7 +36,7 @@ A: Full support for all modes - osu!mania (1K - 10K), osu!catch, osu!standard, o
 **Disclaimer:**</br>
 All material that I have (and will be) combining in this skin are purely for personal use only.</br>
 There are no commercial benefits or copyright claims in the use of this skin.</br>
-You are more than welcome to inform me to take down any or all of your owned elements that are used in this skin.</br>
+You are more than welcome to inform me to take down any or all of your owned elements that are used in this skin.
 
 - [Suzuha_l](https://osu.ppy.sh/users/6132697)'s [personal skin](https://www.youtube.com/@Suzuha0927/featured) for osu!mania skin (bar), combo font, hit-sound, pause screen, fail screen, and ranking screen.
 - [upan](https://osu.ppy.sh/users/5214397)'s personal skin for osu!standard skin and osu!catch skin.
